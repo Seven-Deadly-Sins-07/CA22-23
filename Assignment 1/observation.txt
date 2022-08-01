@@ -1,0 +1,7 @@
+1.If we can decide the sequence of functions executed fron 'gprof'
+->No,we can't decide the sequence of functions executed from 'gprof'
+
+2.Complexity of the Algorithm
+->Best Case(when the pivot element is middle or near to middle element):O(n*logn)
+->Average Case(when array elements are in jumbled order):O(n*logn)
+->Worst case(when pivot element is either greatest or smallest):O(n^2)
