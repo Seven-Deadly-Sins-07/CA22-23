@@ -1,0 +1,11 @@
+Quicksort Algorithm
+
+step 1: To divide list into two sublists ,choose an pivot element
+step 2:Take two variables which point to start and end of list
+step3:If value at left <pivot,move right
+step 4:Value at right >pivot,move left
+step 5:If element at left is greater than pivot and the element at right is smaller than pivot swap the elements
+step 6:If left>=right,the point where they met is new pivot
+step 7:Apply above steps recursively to both sublists on the left and right of the pivot
+
+
